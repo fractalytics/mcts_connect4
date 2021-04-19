@@ -1,0 +1,4 @@
+anytree==2.8.0
+numpy==1.18.4
+tqdm==4.46.0
+Counter==1.0.0
